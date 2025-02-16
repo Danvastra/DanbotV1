@@ -1,0 +1,6 @@
+pip
+pyfiglet
+speedtest-cli
+requests
+colorama
+fast-cli
