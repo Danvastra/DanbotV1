@@ -4,3 +4,12 @@
 # Where has this tool been tested?
 > Termux, Linux, CMD
 
+# How do I use the tools?
+1. git clone https://github.com/Danvastra/DanbotV1
+2. cd
+3. ls
+4. python -m pip install -r requirements.txt (python/python3)
+5. ls
+6. python main.py (python/python3)
+7. good luck with this tool!
+
