@@ -21,7 +21,7 @@ def clear():
 clear()
 
 # Membuat teks ASCII Art dengan ukuran besar
-welcomeTxt = pyfiglet.figlet_format("Danbot Tools v1")
+welcomeTxt = pyfiglet.figlet_format("DanbotV1")
 
 #warna text welcome
 GREEN = '\033[32m'
